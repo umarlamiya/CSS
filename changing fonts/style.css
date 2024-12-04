@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+ }
+ h1{
+    color: antiquewhite;
+ }
+ p{
+    background-color: black;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: large;
+    text-decoration: dotted underline;
+    font-size: 18px;
+
+   }

@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 21px;
+    background: chartreuse;
+}
+
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 21px;
+    background: rgb(47, 0, 255);
+}
